@@ -1,0 +1,33 @@
+....we wrote programes on:
+1)dice program
+     module  a) Rolling the dice
+            b) Setting a rannge
+        c) Getting a random number
+
+2) snake and ladder program
+    module  a)position in the game
+        b)snake and ladder position
+        c)position on getting a ladder or bitten by a snake
+        d)setting a range of dice
+        e)rolling the dice to move ahead in the game
+        f)roll the dice till u reach 100
+
+3)stone paper and scissors program
+     module  a)setting the input
+        b)giving conditions
+        c)computer chosing random from the input
+`        d)user getting to choose from the input
+        e)results will be displayed
+        f)tabulation
+
+4)positive and negative number program
+    module  a)giving input containing integers 
+        b)giving conditions
+        c)printing the results 
+
+5)email program
+    module  a)begin the program with suitable commands
+        b)authentication of the sender
+        c)writing the message 
+        d)writing the email id of the sender and the reciever respectively
+        e)run the program
