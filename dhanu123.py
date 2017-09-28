@@ -1,11 +1,14 @@
 #!/usr/bin/python3
-import random 
+import random
+# system choses the random numbers
 count=0
 r=0
 while count<=100:
     roll=input("press r to roll the dice")
-    if roll=="r":
+    # r is used to roll the dice 
+   if roll=="r":
         r=random.randint(1,6)
+        # it gives random numbers between 1 to 6
         count=count+r
         print("your random num is",r)
         print("you are on count",count)
