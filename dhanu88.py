@@ -18,7 +18,9 @@ while(n==7):
         # system chooses its choice 
         if(Player=="Paper"):
             print("The computer played: ",Computer)
+            # played by system
             print("The Player played: ",Player)
+            # played by user
             print("The Paper Wraps the Stone!")
             print("Player Wins!")
             i=i+1
